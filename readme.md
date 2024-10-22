@@ -5,12 +5,7 @@ This is a basic Laravel application that demonstrates [project purpose]. It incl
 ## Table of Contents
 
 - [Installation](#installation)
-- [Requirements](#requirements)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -20,6 +15,8 @@ This is a basic Laravel application that demonstrates [project purpose]. It incl
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
    ```
+
+## Setup
 
 2. Setup:
 
